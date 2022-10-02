@@ -5,7 +5,7 @@
 
   <p align="left">
     <br />
-    <a href="">Deployed Link</a>
+    <a href="https://saasprovider.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
@@ -81,5 +81,5 @@ Took me almost `3` hours to build this from scratch. Majority of the time was sp
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://saasprovider.netlify.app/
+[source-code]: https://github.com/nkumar007/13.SAASLandingpage
